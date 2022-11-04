@@ -3,11 +3,8 @@
 name = input("What's your name? ")
 print(f"hello, {name}")
 
-
-
 val = 'Geeks'
-print(f"{val}for{val} is a portal for {val}.")
- 
+print(f"{val}for{val} is a portal for {val}.") 
  
 name = 'Tushar'
 age = 23
